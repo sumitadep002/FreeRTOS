@@ -1,0 +1,10 @@
+15:20:43 **** Build of configuration Debug for project Button_Interrupt ****
+make -j8 all 
+arm-none-eabi-size   Button_Interrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18000	    104	   6184	  24288	   5ee0	Button_Interrupt.elf
+Finished building: default.size.stdout
+ 
+
+15:20:43 Build Finished. 0 errors, 0 warnings. (took 312ms)
+

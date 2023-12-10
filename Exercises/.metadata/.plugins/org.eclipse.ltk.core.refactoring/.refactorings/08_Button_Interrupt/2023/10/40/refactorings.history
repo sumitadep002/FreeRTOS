@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;08_Button_Interrupt/Core/Src/main.c&apos; to &apos;Task_Notification_FromISR.c&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/main.c" name="Task_Notification_FromISR.c" stamp="1696323364519" updateReferences="true"/>
+</session>

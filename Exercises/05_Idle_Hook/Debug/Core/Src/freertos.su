@@ -1,0 +1,2 @@
+../Core/Src/freertos.c:62:13:vApplicationIdleHook	4	static
+../Core/Src/freertos.c:80:6:vApplicationGetIdleTaskMemory	24	static

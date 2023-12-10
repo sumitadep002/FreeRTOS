@@ -1,0 +1,11 @@
+../Core/Src/SemaphoreGive_FromISR.c:85:5:main	16	static
+../Core/Src/SemaphoreGive_FromISR.c:164:6:SystemClock_Config	96	static
+../Core/Src/SemaphoreGive_FromISR.c:210:13:MX_USART1_UART_Init	8	static
+../Core/Src/SemaphoreGive_FromISR.c:245:13:MX_GPIO_Init	40	static
+../Core/Src/SemaphoreGive_FromISR.c:281:6:Task1_Handler	16	static
+../Core/Src/SemaphoreGive_FromISR.c:290:6:Task2_Handler	16	static
+../Core/Src/SemaphoreGive_FromISR.c:299:6:Task3_Handler	16	static
+../Core/Src/SemaphoreGive_FromISR.c:308:6:Task4_Handler	16	static
+../Core/Src/SemaphoreGive_FromISR.c:321:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm
+../Core/Src/SemaphoreGive_FromISR.c:352:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/SemaphoreGive_FromISR.c:369:6:Error_Handler	4	static,ignoring_inline_asm

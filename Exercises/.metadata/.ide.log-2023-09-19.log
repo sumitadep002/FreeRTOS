@@ -1,0 +1,1109 @@
+2023-09-20 10:12:34,431 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-09-20 10:12:34,984 [WARN] FreeRTOS:563 - Case being investigated as it may cause exception (when called to early by set config state
+2023-09-20 10:12:35,419 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:12:35,541 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:17:28,393 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:18:16,972 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:18:23,312 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:19:01,524 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x369,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-20 10:19:03,247 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-20 10:19:04,619 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-20 10:19:49,358 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 10:19:49,470 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-09-20 10:19:49,471 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-09-20 10:19:49,471 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-09-20 10:19:50,553 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-09-20 10:19:50,553 [INFO] DetailPanel:341 - Set advertising image to /home/sumit/STM32Cube/Repository//en.prom-stm32h5-mcu-finder.jpg
+2023-09-20 10:20:02,040 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-09-20 10:20:02,105 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-09-20 10:20:02,105 [INFO] DetailPanel:341 - Set advertising image to /home/sumit/STM32Cube/Repository//en.prom-stm32h5-mcu-finder.jpg
+2023-09-20 10:20:34,273 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 10:20:34,274 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 10:20:34,281 [ERROR] IocParser:57 - IOException caught: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore_Employee_Manager/07_Semaphore_Employee_Manager.ioc (No such file or directory)
+2023-09-20 10:20:34,282 [ERROR] PeripheralListParser:95 - Something went wrong with ioc file reading: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore_Employee_Manager/07_Semaphore_Employee_Manager.ioc (No such file or directory)
+2023-09-20 10:20:34,283 [ERROR] RegexParser:59 - Issue caught when parsing regex: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore_Employee_Manager/07_Semaphore_Employee_Manager.ioc (No such file or directory)
+2023-09-20 10:20:34,457 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-20 10:20:34,457 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-20 10:20:34,473 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-09-20 10:20:34,474 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-09-20 10:20:34,474 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-09-20 10:20:34,475 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-20 10:20:34,478 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 312111256 Bytes (723517440)
+2023-09-20 10:20:34,479 [INFO] OpenFileManager:308 - Change cursor
+2023-09-20 10:20:34,508 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-09-20 10:20:34,511 [INFO] ProjectFactory:402 - No CPN specified for board STM32F3348-DISCO => set CPN to STM32F334C8T6
+2023-09-20 10:20:34,512 [INFO] Mcu:1946 - Initializing MCU STM32F334C(4-6-8)Tx STM32F334C8Tx STM32F334C8T6
+2023-09-20 10:20:36,019 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-09-20 10:20:36,942 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2023-09-20 10:20:36,942 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB1 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB2 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB3 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Secured memory - MPCBB4 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB1 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB2 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB3 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Secured memory - MPCBB4 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2023-09-20 10:20:36,943 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB1 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB2 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB3 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Not Privileged memory - MPCBB4 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB1 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB2 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB3 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule 117617 - U5Cobra4M][GTZC] default value MPCBB3 and MPCBB5 - Privileged memory - MPCBB4 is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule Rename SubGHz_Phy SUBGHZ_APPLICATION SUBGHZ_PINGPONG to SUBGHZ_ADV_APPLICATION is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule Rename Enabled to IBEACON is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for mcu.IP is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for mcu is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for mcu.Pin is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance value for IP GTZC is applicable
+2023-09-20 10:20:36,944 [INFO] Rule:228 - rule GTZC_S instance for project manager is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule GTZC_S instance for context M33S is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule GTZC_S instance for VP is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule GTZC_S instance for signal is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule SPDIFRX instance for mcu is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule Rename Tracer Mode is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule SPDIFRX instance for signal is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule SPDIFRX instance for project manager is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule SPDIFRX instance for project manager is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule ADC Scan  fix with FW F7 is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule ADC Scan  fix with FW F7 is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp0 Mode is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp0 SIGNAL is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp1 Mode is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp1 SIGNAL is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp2 Mode is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp2 SIGNAL is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp4 Mode is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp4 SIGNAL is applicable
+2023-09-20 10:20:36,945 [INFO] Rule:228 - rule WakeUp5 Mode is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule WakeUp5 SIGNAL is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Add RTC Activate Clock Source is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Add RTC Activate Calendar 1 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Add RTC Activate Calendar 2 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Add RTC Activate Calendar 3 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART TX Mode is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART RX Mode is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART RX TX Mode is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART PARITY NONE is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART PARITY EVEN is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART PARITY ODD is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule USART StopBits 1 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule USART StopBits 2 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule USART StopBits 1.5 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule USART StopBits 0.5 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART WORD LENGTH 7 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART WORD LENGTH 8 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule UART/USART WORD LENGTH 9 is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Rename FMC NAND NCE signal is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Rename FMC NAND INT signal is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Change Default Value for LSE Drive Capability for WB family is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Change Default Value for ADC Clock Prescaler G0 family is applicable
+2023-09-20 10:20:36,946 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv L4 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv L4 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F3 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F3 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv Goldfish serie is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv Goldfish serie is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv L0 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F0 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConvn L1 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv L1 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F1 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F1 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F7 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F7 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigConv F4 and F2 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Change Default Value for ADC ExternalTrigInjecConv F4 and F2 family is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0  is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule ADC SamplingTime fix with FW L0 is applicable
+2023-09-20 10:20:36,947 [INFO] Rule:228 - rule Rename USB_OE Signal is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename Activate_OE Mode is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2023-09-20 10:20:36,948 [INFO] Rule:228 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule TimeTriggeredMode to TTCM is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN AutoBusOff to ABOM is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN AutoRetransmission to NART is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2023-09-20 10:20:36,949 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule USART TxPinLevelInvertParam Mode is applicable
+2023-09-20 10:20:36,950 [INFO] Rule:228 - rule USART RxPinLevelInvertParam Mode is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule USART DataInvertParam Mode is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule USART SwapParam Mode is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule USART OverrunDisableParam Mode is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule USART DMADisableonRxErrorParam Mode is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule USART MSBFirstParam Mode is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule Update MwName for USB_DEVICE is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule TIM1CLockSelection is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule TIM15CLockSelection is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,951 [INFO] Rule:228 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Rename DCMI PIXCK signal is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change Default Value for USART for G4 family is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2023-09-20 10:20:36,952 [INFO] Rule:228 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change Default Value for PLL1UserDefinedConfig is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change GPIO_PuPd Default Value for USART in async mode is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule Change SMPSDivider Default Value is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule OPAMP is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32H7 is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32WB is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2023-09-20 10:20:36,953 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32L5 is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule LPUART IPParameter rename Prescaler parameter to ClockPrescaler for STM32G4 is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule USB device lib V2.5.3 for L0 rename USBD_SUPPORT_USER_STRING parameter to USBD_SUPPORT_USER_STRING_DESC4 is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule I2SCLockSelection clock entry align is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule Assign TIMx context if used as SYS timebase is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for I2C is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule Change GPIO_Pu Default Value for SMBus is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule change FDCAN default value is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule Change mode sai is applicable
+2023-09-20 10:20:36,954 [INFO] Rule:228 - rule **Change sai mode is applicable
+2023-09-20 10:20:36,965 [INFO] DbConfProperties:307 - Apply Compatibility (41/258 Rules)
+2023-09-20 10:20:37,013 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2023-09-20 10:20:37,165 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-09-20 10:20:37,165 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-09-20 10:20:37,165 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-09-20 10:20:37,165 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-09-20 10:20:37,165 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-09-20 10:20:37,181 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,182 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,183 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 10:20:37,199 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-09-20 10:20:37,591 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-09-20 10:20:37,755 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 281248392 Bytes (723517440)
+2023-09-20 10:20:37,762 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-09-20 10:20:37,762 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-09-20 10:20:37,763 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-09-20 10:20:37,764 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-09-20 10:20:37,765 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-09-20 10:20:37,765 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-09-20 10:20:37,765 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-09-20 10:20:37,765 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-09-20 10:20:37,765 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-09-20 10:20:37,765 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-09-20 10:20:37,994 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-20 10:20:37,994 [INFO] PinOutPanel:1499 - setPackage(STM32F334C8Tx,LQFP48)
+2023-09-20 10:20:38,412 [INFO] UtilMem:75 - Before build in PCC Used Memory: 409082832 Bytes (723517440)
+2023-09-20 10:20:38,652 [INFO] UtilMem:75 - After build in PCC Used Memory: 453655520 Bytes (723517440)
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,672 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,673 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,674 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,674 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,674 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,674 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,674 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,674 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,675 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,675 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,675 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,675 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,675 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,675 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,676 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,677 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,677 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 10:20:38,694 [INFO] CADModel:165 - CPN selected for project levelSTM32F334C8T6
+2023-09-20 10:20:38,694 [INFO] CADModel:114 - Register for checkConnection events
+2023-09-20 10:20:38,735 [INFO] OpenFileManager:328 - Restore cursor
+2023-09-20 10:20:38,959 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 529277008 Bytes (723517440)
+2023-09-20 10:20:39,004 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 542207992 Bytes (723517440)
+2023-09-20 10:20:39,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-20 10:20:39,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-20 10:20:39,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-20 10:20:39,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-20 10:20:39,190 [INFO] CodeGenerator:799 - code generatio: config db path: /opt/st/stm32cubeide_1.13.1/plugins/com.st.stm32cube.common.mx_6.9.1.202307191849//db/
+2023-09-20 10:20:39,506 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/license.tmp_save
+2023-09-20 10:20:39,722 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/license.tmp
+2023-09-20 10:20:39,809 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/gpio.tmp_save
+2023-09-20 10:20:39,909 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/gpio.tmp
+2023-09-20 10:20:39,986 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_it.c_save
+2023-09-20 10:20:40,304 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_it.c
+2023-09-20 10:20:40,306 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_it.h_save
+2023-09-20 10:20:40,392 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_it.h
+2023-09-20 10:20:40,418 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_msp.c_save
+2023-09-20 10:20:40,578 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_msp.c
+2023-09-20 10:20:40,581 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/system.tmp_save
+2023-09-20 10:20:40,674 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/system.tmp
+2023-09-20 10:20:40,689 [INFO] CodeEngine:311 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_hal_conf.h_save
+2023-09-20 10:20:40,777 [INFO] CodeEngine:335 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_hal_conf.h
+2023-09-20 10:20:40,803 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/main.h_save
+2023-09-20 10:20:40,910 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/main.h
+2023-09-20 10:20:40,913 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/main.c_save
+2023-09-20 10:20:41,031 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/main.c
+2023-09-20 10:20:41,917 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 410mS.
+2023-09-20 10:20:41,919 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-20 10:20:42,151 [INFO] ConfigFileManager:1457 - The Die is : DIE438
+2023-09-20 10:20:42,163 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-09-20 10:20:42,173 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-09-20 10:20:42,278 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2023-09-20 10:20:45,349 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 3429mS.
+2023-09-20 10:20:45,349 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 10:20:45,350 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-20 10:20:45,968 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2023-09-20 10:20:45,970 [INFO] ApiDb:448 - Save user favorites file /home/sumit/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-09-20 10:20:45,970 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-09-20 10:20:45,971 [INFO] ApiDb:448 - Save user favorites file /home/sumit/.stm32cubeide/favorites.boards.txt: 0 item(s)
+2023-09-20 10:20:45,971 [INFO] ApiDb:452 - User favorites Boards=[]
+2023-09-20 10:21:16,289 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-20 10:21:50,315 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-09-20 10:21:50,575 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:21:50,621 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:22:00,124 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:22:46,390 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 252772528 Bytes (754974720)
+2023-09-20 10:22:50,908 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 258983032 Bytes (754974720)
+2023-09-20 10:22:51,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-20 10:22:51,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-09-20 10:22:51,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-20 10:22:51,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-20 10:22:51,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-20 10:22:51,135 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-20 10:22:51,136 [INFO] CodeGenerator:799 - code generatio: config db path: /opt/st/stm32cubeide_1.13.1/plugins/com.st.stm32cube.common.mx_6.9.1.202307191849//db/
+2023-09-20 10:22:51,433 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/license.tmp_save
+2023-09-20 10:22:51,510 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/license.tmp
+2023-09-20 10:22:51,522 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/gpio.tmp_save
+2023-09-20 10:22:51,597 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/gpio.tmp
+2023-09-20 10:22:51,706 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 10:22:51,722 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 10:22:51,792 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp
+2023-09-20 10:22:51,793 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelInit.tmp_save
+2023-09-20 10:22:51,860 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelInit.tmp
+2023-09-20 10:22:51,873 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 10:22:51,940 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 10:22:51,941 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_typedefs.tmp_save
+2023-09-20 10:22:52,008 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_typedefs.tmp
+2023-09-20 10:22:52,009 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 10:22:52,078 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp
+2023-09-20 10:22:52,080 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 10:22:52,145 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 10:22:52,147 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 10:22:52,215 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 10:22:52,226 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 10:22:52,296 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 10:22:52,298 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 10:22:52,362 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp
+2023-09-20 10:22:52,368 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 10:22:52,371 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 10:22:52,434 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp
+2023-09-20 10:22:52,435 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelInit.tmp_save
+2023-09-20 10:22:52,496 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelInit.tmp
+2023-09-20 10:22:52,498 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 10:22:52,558 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 10:22:52,559 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_typedefs.tmp_save
+2023-09-20 10:22:52,624 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_typedefs.tmp
+2023-09-20 10:22:52,625 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 10:22:52,690 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp
+2023-09-20 10:22:52,691 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 10:22:52,752 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 10:22:52,753 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 10:22:52,817 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 10:22:52,818 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 10:22:52,880 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 10:22:52,881 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 10:22:52,946 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp
+2023-09-20 10:22:52,948 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/FreeRTOSConfig.h_save
+2023-09-20 10:22:53,029 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/FreeRTOSConfig.h
+2023-09-20 10:22:53,031 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/freertos.c_save
+2023-09-20 10:22:53,103 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/freertos.c
+2023-09-20 10:22:53,107 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_it.c_save
+2023-09-20 10:22:53,192 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_it.c
+2023-09-20 10:22:53,194 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_it.h_save
+2023-09-20 10:22:53,262 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_it.h
+2023-09-20 10:22:53,268 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_msp.c_save
+2023-09-20 10:22:53,377 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_msp.c
+2023-09-20 10:22:53,378 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/system.tmp_save
+2023-09-20 10:22:53,445 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/system.tmp
+2023-09-20 10:22:53,460 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_timebase_tim.c_save
+2023-09-20 10:22:53,536 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_timebase_tim.c
+2023-09-20 10:22:53,538 [INFO] CodeEngine:311 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_hal_conf.h_save
+2023-09-20 10:22:53,613 [INFO] CodeEngine:335 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_hal_conf.h
+2023-09-20 10:22:53,632 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/main.h_save
+2023-09-20 10:22:53,767 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/main.h
+2023-09-20 10:22:53,769 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/main.c_save
+2023-09-20 10:22:53,890 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/main.c
+2023-09-20 10:22:54,571 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 240mS.
+2023-09-20 10:22:54,574 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-20 10:22:54,784 [INFO] ConfigFileManager:1457 - The Die is : DIE438
+2023-09-20 10:22:56,397 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1823mS.
+2023-09-20 10:22:56,398 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-20 10:22:56,399 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 10:24:35,866 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:24:36,000 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 10:25:03,414 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 313891248 Bytes (952107008)
+2023-09-20 10:25:08,323 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 353214896 Bytes (952107008)
+2023-09-20 10:25:08,539 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-20 10:25:08,539 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-09-20 10:25:08,539 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-20 10:25:08,539 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-20 10:25:08,539 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-20 10:25:08,539 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-20 10:25:08,540 [INFO] CodeGenerator:799 - code generatio: config db path: /opt/st/stm32cubeide_1.13.1/plugins/com.st.stm32cube.common.mx_6.9.1.202307191849//db/
+2023-09-20 10:25:08,758 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/license.tmp_save
+2023-09-20 10:25:08,825 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/license.tmp
+2023-09-20 10:25:08,838 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/gpio.tmp_save
+2023-09-20 10:25:08,908 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/gpio.tmp
+2023-09-20 10:25:08,962 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 10:25:08,965 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 10:25:09,032 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp
+2023-09-20 10:25:09,034 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 10:25:09,103 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp
+2023-09-20 10:25:09,105 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 10:25:09,172 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 10:25:09,173 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 10:25:09,242 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 10:25:09,243 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 10:25:09,308 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 10:25:09,310 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 10:25:09,378 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 10:25:09,380 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 10:25:09,446 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp
+2023-09-20 10:25:09,452 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 10:25:09,454 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 10:25:09,522 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_inc.tmp
+2023-09-20 10:25:09,523 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 10:25:09,589 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_vars.tmp
+2023-09-20 10:25:09,590 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 10:25:09,657 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 10:25:09,658 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 10:25:09,723 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 10:25:09,724 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 10:25:09,784 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 10:25:09,785 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 10:25:09,846 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 10:25:09,847 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 10:25:09,908 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/rtos_threads.tmp
+2023-09-20 10:25:09,910 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/FreeRTOSConfig.h_save
+2023-09-20 10:25:09,990 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/FreeRTOSConfig.h
+2023-09-20 10:25:09,991 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/freertos.c_save
+2023-09-20 10:25:10,062 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/freertos.c
+2023-09-20 10:25:10,066 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_it.c_save
+2023-09-20 10:25:10,134 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_it.c
+2023-09-20 10:25:10,135 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_it.h_save
+2023-09-20 10:25:10,197 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_it.h
+2023-09-20 10:25:10,201 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_msp.c_save
+2023-09-20 10:25:10,293 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_msp.c
+2023-09-20 10:25:10,295 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/system.tmp_save
+2023-09-20 10:25:10,355 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/MXTmpFiles/system.tmp
+2023-09-20 10:25:10,356 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_timebase_tim.c_save
+2023-09-20 10:25:10,422 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/stm32f3xx_hal_timebase_tim.c
+2023-09-20 10:25:10,424 [INFO] CodeEngine:311 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_hal_conf.h_save
+2023-09-20 10:25:10,492 [INFO] CodeEngine:335 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/stm32f3xx_hal_conf.h
+2023-09-20 10:25:10,513 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/main.h_save
+2023-09-20 10:25:10,592 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Inc/main.h
+2023-09-20 10:25:10,593 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/main.c_save
+2023-09-20 10:25:10,694 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/Core/Src/main.c
+2023-09-20 10:25:11,355 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 137mS.
+2023-09-20 10:25:11,357 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-20 10:25:11,543 [INFO] ConfigFileManager:1457 - The Die is : DIE438
+2023-09-20 10:25:12,719 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1362mS.
+2023-09-20 10:25:12,719 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 10:25:12,720 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 11:05:27,272 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 11:05:27,403 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 11:05:27,443 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-20 11:05:27,443 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-20 11:05:27,457 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-09-20 11:05:27,457 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-09-20 11:05:27,457 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-09-20 11:05:27,458 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-20 11:05:27,462 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 558470960 Bytes (838860800)
+2023-09-20 11:05:27,462 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-20 11:05:27,462 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-20 11:05:27,463 [INFO] OpenFileManager:308 - Change cursor
+2023-09-20 11:05:27,622 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-09-20 11:05:27,624 [INFO] Mcu:1946 - Initializing MCU STM32F334C(4-6-8)Tx STM32F334C8Tx STM32F334C8T6
+2023-09-20 11:05:29,350 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-09-20 11:05:30,564 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-09-20 11:05:30,564 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-09-20 11:05:30,564 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-09-20 11:05:30,564 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-09-20 11:05:30,564 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,572 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,573 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,573 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,573 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 11:05:30,585 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-09-20 11:05:30,906 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-09-20 11:05:30,912 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-09-20 11:05:31,051 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 711789616 Bytes (838860800)
+2023-09-20 11:05:31,059 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-09-20 11:05:31,059 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2023-09-20 11:05:31,059 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-09-20 11:05:31,060 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-09-20 11:05:31,061 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-09-20 11:05:31,062 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-09-20 11:05:31,062 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-09-20 11:05:31,062 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-09-20 11:05:31,062 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-09-20 11:05:31,062 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-09-20 11:05:31,062 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-09-20 11:05:31,263 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-20 11:05:31,264 [INFO] PinOutPanel:1499 - setPackage(STM32F334C8Tx,LQFP48)
+2023-09-20 11:05:31,751 [INFO] UtilMem:75 - Before build in PCC Used Memory: 296409168 Bytes (838860800)
+2023-09-20 11:05:31,949 [INFO] UtilMem:75 - After build in PCC Used Memory: 340847568 Bytes (838860800)
+2023-09-20 11:05:31,952 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-09-20 11:05:31,968 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,968 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,968 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,968 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,968 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,968 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,969 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,970 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,971 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,972 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 11:05:31,980 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2023-09-20 11:05:32,013 [INFO] CADModel:165 - CPN selected for project levelSTM32F334C8T6
+2023-09-20 11:05:32,013 [INFO] CADModel:114 - Register for checkConnection events
+2023-09-20 11:05:32,015 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M4NS]
+2023-09-20 11:05:32,054 [INFO] OpenFileManager:328 - Restore cursor
+2023-09-20 11:06:10,318 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 11:06:44,324 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 701003416 Bytes (838860800)
+2023-09-20 11:07:01,080 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 737147776 Bytes (838860800)
+2023-09-20 11:07:11,315 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 507018672 Bytes (838860800)
+2023-09-20 11:07:11,453 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 531258744 Bytes (838860800)
+2023-09-20 11:07:11,638 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-20 11:07:11,638 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-09-20 11:07:11,638 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-20 11:07:11,638 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-20 11:07:11,638 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-20 11:07:11,638 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-20 11:07:11,638 [INFO] CodeGenerator:799 - code generatio: config db path: /opt/st/stm32cubeide_1.13.1/plugins/com.st.stm32cube.common.mx_6.9.1.202307191849//db/
+2023-09-20 11:07:11,769 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/license.tmp_save
+2023-09-20 11:07:11,952 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/license.tmp
+2023-09-20 11:07:11,980 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/gpio.tmp_save
+2023-09-20 11:07:12,059 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/gpio.tmp
+2023-09-20 11:07:12,121 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 11:07:12,124 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 11:07:12,189 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp
+2023-09-20 11:07:12,190 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 11:07:12,258 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp
+2023-09-20 11:07:12,259 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 11:07:12,325 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 11:07:12,326 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 11:07:12,394 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 11:07:12,395 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 11:07:12,458 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 11:07:12,459 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 11:07:12,522 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 11:07:12,523 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 11:07:12,583 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp
+2023-09-20 11:07:12,588 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 11:07:12,590 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 11:07:12,655 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp
+2023-09-20 11:07:12,656 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 11:07:12,730 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp
+2023-09-20 11:07:12,731 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 11:07:12,796 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 11:07:12,797 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 11:07:12,860 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 11:07:12,861 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 11:07:12,920 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 11:07:12,921 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 11:07:12,982 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 11:07:12,983 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 11:07:13,056 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp
+2023-09-20 11:07:13,062 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/FreeRTOSConfig.h_save
+2023-09-20 11:07:13,176 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/FreeRTOSConfig.h
+2023-09-20 11:07:13,184 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/freertos.c_save
+2023-09-20 11:07:13,262 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/freertos.c
+2023-09-20 11:07:13,266 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_it.c_save
+2023-09-20 11:07:13,465 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_it.c
+2023-09-20 11:07:13,467 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_it.h_save
+2023-09-20 11:07:13,538 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_it.h
+2023-09-20 11:07:13,542 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_msp.c_save
+2023-09-20 11:07:13,637 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_msp.c
+2023-09-20 11:07:13,638 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/system.tmp_save
+2023-09-20 11:07:13,699 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/system.tmp
+2023-09-20 11:07:13,699 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_timebase_tim.c_save
+2023-09-20 11:07:13,765 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_timebase_tim.c
+2023-09-20 11:07:13,767 [INFO] CodeEngine:311 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_hal_conf.h_save
+2023-09-20 11:07:13,851 [INFO] CodeEngine:335 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_hal_conf.h
+2023-09-20 11:07:13,866 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/main.h_save
+2023-09-20 11:07:13,946 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/main.h
+2023-09-20 11:07:13,947 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/main.c_save
+2023-09-20 11:07:14,055 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/main.c
+2023-09-20 11:07:14,438 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 37mS.
+2023-09-20 11:07:14,440 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-20 11:07:14,767 [INFO] ConfigFileManager:1457 - The Die is : DIE438
+2023-09-20 11:07:14,770 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-09-20 11:07:14,783 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2023-09-20 11:07:15,976 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1536mS.
+2023-09-20 11:07:15,977 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 11:07:15,978 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-20 11:39:34,407 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 503803056 Bytes (888143872)
+2023-09-20 11:39:58,762 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-09-20 11:40:10,557 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 302635856 Bytes (888143872)
+2023-09-20 11:41:17,994 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 313014528 Bytes (888143872)
+2023-09-20 11:41:18,209 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-20 11:41:18,209 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-09-20 11:41:18,210 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-20 11:41:18,210 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-20 11:41:18,210 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-20 11:41:18,210 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-20 11:41:18,211 [INFO] CodeGenerator:799 - code generatio: config db path: /opt/st/stm32cubeide_1.13.1/plugins/com.st.stm32cube.common.mx_6.9.1.202307191849//db/
+2023-09-20 11:41:18,406 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/license.tmp_save
+2023-09-20 11:41:18,502 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/license.tmp
+2023-09-20 11:41:18,521 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/gpio.tmp_save
+2023-09-20 11:41:18,603 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/gpio.tmp
+2023-09-20 11:41:18,671 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 11:41:18,673 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 11:41:18,746 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp
+2023-09-20 11:41:18,746 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 11:41:18,819 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp
+2023-09-20 11:41:18,820 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 11:41:18,884 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 11:41:18,885 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 11:41:18,952 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 11:41:18,953 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 11:41:19,020 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 11:41:19,021 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 11:41:19,085 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 11:41:19,086 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 11:41:19,150 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp
+2023-09-20 11:41:19,155 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-09-20 11:41:19,157 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp_save
+2023-09-20 11:41:19,222 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_inc.tmp
+2023-09-20 11:41:19,222 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp_save
+2023-09-20 11:41:19,286 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_vars.tmp
+2023-09-20 11:41:19,288 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp_save
+2023-09-20 11:41:19,350 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_pfp.tmp
+2023-09-20 11:41:19,351 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp_save
+2023-09-20 11:41:19,418 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_obj_creat.tmp
+2023-09-20 11:41:19,419 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp_save
+2023-09-20 11:41:19,483 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_kernelStart.tmp
+2023-09-20 11:41:19,484 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp_save
+2023-09-20 11:41:19,549 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_default_thread.tmp
+2023-09-20 11:41:19,550 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp_save
+2023-09-20 11:41:19,611 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/rtos_threads.tmp
+2023-09-20 11:41:19,612 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/FreeRTOSConfig.h_save
+2023-09-20 11:41:19,686 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/FreeRTOSConfig.h
+2023-09-20 11:41:19,687 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/freertos.c_save
+2023-09-20 11:41:19,868 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/freertos.c
+2023-09-20 11:41:19,873 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_it.c_save
+2023-09-20 11:41:20,142 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_it.c
+2023-09-20 11:41:20,143 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_it.h_save
+2023-09-20 11:41:20,276 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_it.h
+2023-09-20 11:41:20,280 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_msp.c_save
+2023-09-20 11:41:20,384 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_msp.c
+2023-09-20 11:41:20,385 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/system.tmp_save
+2023-09-20 11:41:20,449 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/MXTmpFiles/system.tmp
+2023-09-20 11:41:20,450 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_timebase_tim.c_save
+2023-09-20 11:41:20,519 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/stm32f3xx_hal_timebase_tim.c
+2023-09-20 11:41:20,521 [INFO] CodeEngine:311 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_hal_conf.h_save
+2023-09-20 11:41:20,590 [INFO] CodeEngine:335 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/stm32f3xx_hal_conf.h
+2023-09-20 11:41:20,606 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/main.h_save
+2023-09-20 11:41:20,686 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Inc/main.h
+2023-09-20 11:41:20,688 [INFO] CodeEngine:255 - oldGeneratedFile, /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/main.c_save
+2023-09-20 11:41:20,802 [INFO] CodeEngine:279 - Generated code: /home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/06_using_CMD/Core/Src/main.c
+2023-09-20 11:41:21,400 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 132mS.
+2023-09-20 11:41:21,402 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-20 11:41:21,586 [INFO] ConfigFileManager:1457 - The Die is : DIE438
+2023-09-20 11:41:22,868 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1466mS.
+2023-09-20 11:41:22,869 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 11:41:22,870 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-20 12:52:12,901 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 12:52:13,001 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-20 12:52:13,126 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-20 12:52:13,126 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-20 12:52:13,251 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-09-20 12:52:13,252 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-09-20 12:52:13,252 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-09-20 12:52:13,253 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-20 12:52:13,256 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 682687792 Bytes (968884224)
+2023-09-20 12:52:13,256 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-20 12:52:13,257 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-20 12:52:13,257 [INFO] OpenFileManager:308 - Change cursor
+2023-09-20 12:52:13,327 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-09-20 12:52:13,382 [INFO] Mcu:1946 - Initializing MCU STM32F334C(4-6-8)Tx STM32F334C8Tx STM32F334C8T6
+2023-09-20 12:52:15,694 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-09-20 12:52:17,073 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-09-20 12:52:17,073 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-09-20 12:52:17,073 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-09-20 12:52:17,073 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-09-20 12:52:17,073 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,081 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,082 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-20 12:52:17,093 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-09-20 12:52:17,405 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-09-20 12:52:17,411 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-09-20 12:52:17,737 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 301900232 Bytes (1073741824)
+2023-09-20 12:52:17,746 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-09-20 12:52:17,747 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.3
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-09-20 12:52:17,747 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.2
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.1
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.1.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.22.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.1.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-09-20 12:52:17,748 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-09-20 12:52:17,749 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-09-20 12:52:17,749 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-09-20 12:52:17,749 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-09-20 12:52:17,749 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-09-20 12:52:17,749 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-09-20 12:52:18,033 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-20 12:52:18,034 [INFO] PinOutPanel:1499 - setPackage(STM32F334C8Tx,LQFP48)
+2023-09-20 12:52:18,384 [INFO] UtilMem:75 - Before build in PCC Used Memory: 449304192 Bytes (1052770304)
+2023-09-20 12:52:18,763 [INFO] UtilMem:75 - After build in PCC Used Memory: 494392960 Bytes (1052770304)
+2023-09-20 12:52:18,786 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-09-20 12:52:18,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,805 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,806 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,807 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,808 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,809 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-20 12:52:18,818 [WARN] FreeRTOS:1023 - Null or empty value: should not occur! (nothing added to the table)
+2023-09-20 12:52:18,856 [INFO] CADModel:165 - CPN selected for project levelSTM32F334C8T6
+2023-09-20 12:52:18,857 [INFO] CADModel:114 - Register for checkConnection events
+2023-09-20 12:52:18,858 [INFO] RtosManager:697 - Active RTOS found at IOC load: FREERTOS [Cortex-M4NS]
+2023-09-20 12:52:18,896 [INFO] OpenFileManager:328 - Restore cursor

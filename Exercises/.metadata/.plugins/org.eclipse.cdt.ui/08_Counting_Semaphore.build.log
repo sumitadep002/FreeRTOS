@@ -1,0 +1,11 @@
+14:27:03 **** Incremental Build of configuration Debug for project 08_Counting_Semaphore ****
+make -j8 all 
+arm-none-eabi-gcc -o "08_Counting_Semaphore.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/08_Mutex/STM32F334C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="08_Counting_Semaphore.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+/opt/st/stm32cubeide_1.13.1/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.0.202305231506/tools/bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/bin/ld: ./Core/Src/main.o: in function `main':
+/home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/08_Mutex/Debug/../Core/Src/main.c:110: undefined reference to `xQueueCreateCountingSemaphore'
+collect2: error: ld returned 1 exit status
+make: *** [makefile:68: 08_Counting_Semaphore.elf] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+14:27:04 Build Failed. 3 errors, 0 warnings. (took 440ms)
+

@@ -1,0 +1,10 @@
+19:07:11 **** Incremental Build of configuration Debug for project 03_Priority_Based_Task ****
+make -j8 all 
+arm-none-eabi-size   03_Priority_Based_Task.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18028	    100	   6180	  24308	   5ef4	03_Priority_Based_Task.elf
+Finished building: default.size.stdout
+ 
+
+19:07:11 Build Finished. 0 errors, 0 warnings. (took 294ms)
+

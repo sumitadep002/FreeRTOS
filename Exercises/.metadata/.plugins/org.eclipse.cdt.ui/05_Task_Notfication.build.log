@@ -1,0 +1,10 @@
+15:15:31 **** Incremental Build of configuration Debug for project 05_Task_Notfication ****
+make -j8 all 
+arm-none-eabi-size   05_Task_Notfication.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18536	     24	   5792	  24352	   5f20	05_Task_Notfication.elf
+Finished building: default.size.stdout
+ 
+
+15:15:31 Build Finished. 0 errors, 0 warnings. (took 292ms)
+

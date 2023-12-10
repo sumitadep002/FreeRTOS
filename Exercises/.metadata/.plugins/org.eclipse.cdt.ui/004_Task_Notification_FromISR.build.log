@@ -1,0 +1,10 @@
+10:27:45 **** Incremental Build of configuration Debug for project 004_Task_Notification_FromISR ****
+make -j8 all 
+arm-none-eabi-size   004_Task_Notification_FromISR.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18016	    104	   6112	  24232	   5ea8	004_Task_Notification_FromISR.elf
+Finished building: default.size.stdout
+ 
+
+10:27:46 Build Finished. 0 errors, 0 warnings. (took 354ms)
+

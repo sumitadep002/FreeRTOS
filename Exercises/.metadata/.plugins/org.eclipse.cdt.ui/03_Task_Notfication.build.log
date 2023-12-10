@@ -1,0 +1,10 @@
+15:08:21 **** Build of configuration Debug for project 03_Task_Notfication ****
+make -j8 all 
+arm-none-eabi-size   03_Task_Notfication.elf 
+   text	   data	    bss	    dec	    hex	filename
+  18536	     24	   5792	  24352	   5f20	03_Task_Notfication.elf
+Finished building: default.size.stdout
+ 
+
+15:08:22 Build Finished. 0 errors, 0 warnings. (took 593ms)
+

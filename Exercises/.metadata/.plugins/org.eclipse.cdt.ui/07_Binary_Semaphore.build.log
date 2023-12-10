@@ -1,0 +1,17 @@
+16:52:09 **** Incremental Build of configuration Debug for project 07_Binary_Semaphore ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F334x8 -c -I../Core/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F3xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "07_Binary_Semaphore.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/sumit/Desktop/Professional/Scaledge/GitLab/Training/RTOS/workspace/Exercises/07_Semaphore/STM32F334C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="07_Binary_Semaphore.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 07_Binary_Semaphore.elf
+ 
+arm-none-eabi-size   07_Binary_Semaphore.elf 
+arm-none-eabi-objdump -h -S  07_Binary_Semaphore.elf  > "07_Binary_Semaphore.list"
+   text	   data	    bss	    dec	    hex	filename
+  28220	    116	   6212	  34548	   86f4	07_Binary_Semaphore.elf
+Finished building: default.size.stdout
+ 
+Finished building: 07_Binary_Semaphore.list
+ 
+
+16:52:10 Build Finished. 0 errors, 0 warnings. (took 895ms)
+
